@@ -91,7 +91,6 @@ public class SimpleMovieRecommender implements BaseMovieRecommender {
         return user;
     }
 
-    // test
 
     @Override
     public void loadData(String movieFilename, String userFilename) {
