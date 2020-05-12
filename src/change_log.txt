@@ -1,0 +1,8 @@
+== UPDATE 2020-04-27 ==
+1.Update the project specification document from 2-2020-ITCS209-P2v.01 to 2-2020-ITCS209-P2v.02
+> Update information on "the Example of Test cases for debugging" section
+
+2.Update two following output file for testing
+> small.simple.model
+> small.simple.result
+========================
