@@ -91,6 +91,8 @@ public class SimpleMovieRecommender implements BaseMovieRecommender {
         return user;
     }
 
+    // test
+
     @Override
     public void loadData(String movieFilename, String userFilename) {
         mMap = (HashMap<Integer, Movie>) loadMovies(movieFilename);
